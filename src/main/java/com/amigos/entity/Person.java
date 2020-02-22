@@ -1,4 +1,4 @@
-package com.amigos.accessingdatajpa;
+package com.amigos.entity;
 
 public class Person {
 	private String name;
