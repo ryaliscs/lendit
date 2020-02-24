@@ -13,9 +13,9 @@ import org.springframework.boot.autoconfigure.*;
   //~ Methods --------------------------------------------------------------------------------------
 
   /**
-   * DOCUMENT ME!
+   * LenditApplication
    *
-   * @param aArguments DOCUMENT ME!
+   * @param aArguments 
    */
   public static void main(String[] aArguments)
   {
