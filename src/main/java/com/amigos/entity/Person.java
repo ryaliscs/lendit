@@ -1,5 +1,9 @@
 package com.amigos.entity;
 
+/**
+ * This is a Person class.
+ * 
+*/
 public class Person {
 	private String name;
 
