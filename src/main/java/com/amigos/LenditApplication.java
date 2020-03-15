@@ -1,4 +1,4 @@
-package com.amigos.application;
+package com.amigos;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;

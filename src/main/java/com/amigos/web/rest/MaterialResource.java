@@ -65,7 +65,7 @@ import java.util.*;
    *
    * @return the created material with id
    */
-  @PostMapping("/material")
+  @PutMapping("/material")
   public ResponseEntity<Material> updateMaterial(@RequestBody @Valid Material material)
   {
     if (material.getId() != null)
